@@ -124,5 +124,5 @@ This project recreates the customer targeting workflow used at a
 direct mail agency serving 30+ e-commerce clients. In that role 
 I co-designed the data model alongside engineers and built the 
 analytics layer clients used in real time. This project adds the 
-full engineering layer — from raw ingestion to ranked output — 
+full engineering layer from raw ingestion to ranked output — 
 giving end-to-end ownership of the workflow.
