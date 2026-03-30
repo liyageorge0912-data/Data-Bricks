@@ -1,0 +1,16 @@
+event_id,profile_id,email,event_type,timestamp
+E001,C001,jane.smith@gmail.com,Opened Email,2024-02-01
+E002,C001,jane.smith@gmail.com,Opened Email,2024-03-01
+E003,C003,sarah.williams@gmail.com,Opened Email,2024-01-20
+E004,C003,sarah.williams@gmail.com,Opened Email,2024-02-20
+E005,C003,sarah.williams@gmail.com,Opened Email,2024-03-20
+E006,C005,lisa.taylor@gmail.com,Opened Email,2024-01-10
+E007,C005,lisa.taylor@gmail.com,Opened Email,2024-02-10
+E008,C007,james.wilson@gmail.com,Opened Email,2024-02-10
+E009,C009,tom.evans@gmail.com,Opened Email,2024-01-20
+E010,C009,tom.evans@gmail.com,Opened Email,2024-02-20
+E011,C012,amy.robinson@gmail.com,Opened Email,2024-02-01
+E012,C014,helen.hall@gmail.com,Opened Email,2023-11-01
+E013,C014,helen.hall@gmail.com,Opened Email,2024-01-15
+E014,C016,kate.young@gmail.com,Opened Email,2024-01-15
+E015,C016,kate.young@gmail.com,Opened Email,2024-02-20
